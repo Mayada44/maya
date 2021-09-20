@@ -1,0 +1,15 @@
+.navbar  {
+    border-bottom: turquoise 5px solid;
+    opacity: 0.7;
+}
+
+header{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.74)) 
+     , url(../images/hero.jpg);
+     background-position: center;
+     background-size: cover;
+}
+footer{
+    background-color: #333;
+}
